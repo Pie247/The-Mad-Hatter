@@ -1,0 +1,1 @@
+This script install programs and set their configs to fit my personal preferences. It is made for Fedora 34 Workstation but will be updated to work for newer releases as needed. It is currently in the process of being rewritten from scratch.
